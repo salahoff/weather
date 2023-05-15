@@ -1,0 +1,11 @@
+C:\Users\aynur\Desktop\weather\weather\bin\Debug\weather.exe.config
+C:\Users\aynur\Desktop\weather\weather\bin\Debug\weather.exe
+C:\Users\aynur\Desktop\weather\weather\bin\Debug\weather.pdb
+C:\Users\aynur\Desktop\weather\weather\obj\Debug\weather.csproj.AssemblyReference.cache
+C:\Users\aynur\Desktop\weather\weather\obj\Debug\weather.Form1.resources
+C:\Users\aynur\Desktop\weather\weather\obj\Debug\weather.Properties.Resources.resources
+C:\Users\aynur\Desktop\weather\weather\obj\Debug\weather.csproj.GenerateResource.cache
+C:\Users\aynur\Desktop\weather\weather\obj\Debug\weather.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Desktop\weather\weather\obj\Debug\weather.csproj.CopyComplete
+C:\Users\aynur\Desktop\weather\weather\obj\Debug\weather.exe
+C:\Users\aynur\Desktop\weather\weather\obj\Debug\weather.pdb
